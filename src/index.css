@@ -296,3 +296,47 @@ footer p{
   }
 }
 
+
+@media(max-width:991px) {
+  .cir{
+    font-size: 40px;
+left: -690px;
+top: -100px;
+text-shadow: 2px 2px 5px black;
+color: white;
+  }
+  .black{
+    height: 1000px;
+  }
+  .hell{
+    font-size: 100px;
+    top: -130px;
+    right: 640px;
+  }
+  .wor{
+    font-size: 100px;
+    top: -50px;
+    left: 616.4px;
+  }
+  .App{
+    font-size: 20px;
+    margin-left: 0px;
+    top:0px;
+    margin-bottom: -610px;;
+  }
+  .App a{
+    font-size: 20.3px;
+  }
+  .full{
+    margin-top: 10px;
+    text-align: left;
+  }
+  .image{
+    height: 280px;
+  }
+  .skill{
+    margin-top: 50%;
+    font-size: 100px;
+  }
+  
+}
