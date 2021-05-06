@@ -1,6 +1,5 @@
 {
   "name": "cv",
-  "homepage":"http://languagezone.in/cv",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
