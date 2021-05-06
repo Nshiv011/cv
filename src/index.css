@@ -306,7 +306,7 @@ text-shadow: 2px 2px 5px black;
 color: white;
   }
   .black{
-    height: 1600px;
+    height: 1300px;
   }
   .hell{
     font-size: 100px;
@@ -322,7 +322,7 @@ color: white;
     font-size: 20px;
     margin-left: 0px;
     top:0px;
-    margin-bottom: -610px;;
+    min-height:0px !important;
   }
   .App a{
     font-size: 20.3px;
